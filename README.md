@@ -1,4 +1,4 @@
-# Adblock_General
+# BlockExtra
 A simple chrome extension
 
 Blocks ads from doubleclick.net and googleadservices.com.\
