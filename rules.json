@@ -42,19 +42,19 @@
         "condition": { "urlFilter": "*://*adbrite.com/*"}
     },
     {
-        "id": 7,
+        "id": 8,
         "priority": 1,
         "action": { "type": "block" },
         "condition": { "urlFilter": "*://*adbureau.net/*"}
     },
     {
-        "id": 7,
+        "id": 9,
         "priority": 1,
         "action": { "type": "block" },
         "condition": { "urlFilter": "*://*carbonads.net/*"}
     },
     {
-        "id": 7,
+        "id": 10,
         "priority": 1,
         "action": { "type": "block" },
         "condition": { "urlFilter": "*://*carbonads.com/*"}
