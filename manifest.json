@@ -1,6 +1,6 @@
 {
-    "name": "Adblock_General",
-    "version": "1.0.0",
+    "name": "BlockExtra",
+    "version": "1.0.1",
     "manifest_version": 3,
     "permissions": [
         "declarativeNetRequest"
